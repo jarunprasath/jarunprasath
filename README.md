@@ -3,7 +3,7 @@
 **System & Software Verification Specialist | IVV Engineer**
 Aerospace V&V experienced across Avionics, eVTOL Electric Propulsion, and Satellite Ground Segment systems.
 
-📍 Darmstadt, Germany | 🛰️ Currently: Test Conductor, MetOp-SG/EPS-SG PDAP @ EUMETSAT
+📍 Darmstadt, Germany | 🛰️ Currently: IV&V Engineer, MetOp-SG/EPS-SG PDAP @ EUMETSAT
 
 ---
 
@@ -51,7 +51,7 @@ I'm also building **AI-assisted V&V tooling** — exploring how automation and A
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprasathj)
 
 ---
 
