@@ -4,7 +4,7 @@
 Aerospace and Space V&V Engineer experienced across Avionics, eVTOL Electric Propulsion, and Satellite Ground Segment systems.
 
 📍 Darmstadt, Germany | 🛰️ Currently: IV&V Engineer, MetOp-SG/EPS-SG PDAP @ EUMETSAT
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprasathj)
 ---
 
 ### 🔭 What I Do
