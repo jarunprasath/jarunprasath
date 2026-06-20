@@ -1,7 +1,7 @@
 # Hi, I'm Arun Prasath Jeyaraman 👋
 
 **System & Software Verification Specialist | IVV Engineer**
-Aerospace V&V experienced across Avionics, eVTOL Electric Propulsion, and Satellite Ground Segment systems.
+Aerospace and Space V&V Engineer experienced across Avionics, eVTOL Electric Propulsion, and Satellite Ground Segment systems.
 
 📍 Darmstadt, Germany | 🛰️ Currently: IV&V Engineer, MetOp-SG/EPS-SG PDAP @ EUMETSAT
 
