@@ -1,58 +1,117 @@
-# Hi, I'm Arun Prasath Jeyaraman 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Arun Prasath Jeyaraman — Aerospace &amp; Space Systems V&amp;V / IV&amp;V Engineer" width="100%" />
+</p>
 
-**System & Software Verification Specialist | IVV Engineer**
-Aerospace and Space V&V Engineer experienced across Avionics, eVTOL Electric Propulsion, and Satellite Ground Segment systems.
-
-📍 Darmstadt, Germany | 🛰️ Currently: IV&V Engineer, MetOp-SG/EPS-SG PDAP @ EUMETSAT
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprasathj)
----
-
-### 🔭 What I Do
-
-I specialize in **Verification & Validation (V&V)** and **Independent Verification & Validation (IVV)** for safety-critical and mission-critical systems — from avionics software to satellite ground segment data processing. My work spans the full V&V lifecycle: requirements traceability, test planning and execution, verification control documents (VCDs), and compliance with aerospace assurance standards.
-
-I'm also building **AI-assisted V&V tooling** — exploring how automation and AI can streamline test analysis, traceability, and reporting in safety-critical domains.
-
-- 🛩️ **Avionics** — Honeywell (EGPWS, Weather Radar, ECS, FMS)
-- 🚁 **eVTOL Electric Propulsion** — Lilium Aerospace
-- 🛰️ **Satellite Ground Segment IVV** — EUMETSAT (MetOp-SG/EPS-SG)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunprasathj"><img src="https://img.shields.io/badge/LinkedIn-arunprasathj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0004-7456-7197"><img src="https://img.shields.io/badge/ORCID-0009--0004--7456--7197-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <img src="https://img.shields.io/badge/Experience-19%2B_years-F59E0B?style=for-the-badge" alt="19+ years experience" />
+  <img src="https://img.shields.io/badge/Based_in-Darmstadt,_Germany-7C3AED?style=for-the-badge" alt="Based in Darmstadt, Germany" />
+</p>
 
 ---
 
-### 🛠️ Tech & Standards
+## 👋 About me
 
-**Standards & Domains**
-![DO-178C](https://img.shields.io/badge/DO--178C-Software-blue)
-![ARP4754A](https://img.shields.io/badge/ARP4754A-Systems-blue)
-![DO-254](https://img.shields.io/badge/DO--254-Hardware-blue)
-![DO-160G](https://img.shields.io/badge/DO--160G-Environmental-blue)
-![DO-326A](https://img.shields.io/badge/DO--326A-Security-blue)
-![ECSS](https://img.shields.io/badge/ECSS-Space%20Standards-lightblue)
+I verify software and systems where failure is not an option — from **DO-178C DAL A/B avionics** to **eVTOL electric propulsion certification** and **satellite ground segment data processing**.
 
-**Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![DOORS](https://img.shields.io/badge/DOORS%2FDXL-Requirements-orange)
-![VectorCAST](https://img.shields.io/badge/VectorCAST-Testing-orange)
-![LDRA](https://img.shields.io/badge/LDRA%20Testbed-Coverage-orange)
-
-**Certifications**
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified-green)
-![Scrum Master](https://img.shields.io/badge/Scrum%20Master-Certified-green)
+My work covers the full V&V lifecycle: requirements analysis and traceability, test planning and execution, structural coverage, verification control documents (VCDs), and compliance with aerospace and space assurance standards. Alongside this, I build **Python and AI-assisted tooling** that makes verification faster, more traceable and easier to report.
 
 ---
 
-### 📌 Featured Project
+## 🧭 Career flight path
 
-- **[arun_labs](https://github.com/jarunprasath/arun_labs)** — A growing toolkit of Python scripts for aerospace V&V automation, AI-assisted testing tools, and general engineering utilities.
+| | Domain | Highlights |
+|:---:|---|---|
+| 🛰️ | **Satellite ground segment** — EUMETSAT, MetOp-SG / EPS-SG PDAP *(via Telespazio)* · 2025–present | Integration, Verification & Validation Engineer; **Verification Control Engineer** owning the system-level SRD VCD; automation for product timeliness, completeness and traceability |
+| 🚁 | **eVTOL electric propulsion** — Lilium Aerospace · 2024–2025 | Propulsion system certification and verification |
+| ✈️ | **Avionics** — Honeywell Aerospace · 13 years | V&V for **Weather Radar, EGPWS, Environment Control Systems and FMS** (DO-178C DAL A/B); SRS ownership, reviews, tool qualification, team lead; on-site Weather Radar V&V in Seattle, USA |
+| 💻 | **Career start** — Accord Software and Systems, Bengaluru · 2007 | First industry role |
 
 ---
 
-### 📫 Connect With Me
+## 🛠️ Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprasathj)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ✈️ Aerospace
+
+- **Software assurance:** DO-178C (DAL A/B/C)
+- **System development:** ARP4754A
+- **Airborne hardware:** DO-254
+- **Environmental qualification:** DO-160G
+- **Airworthiness security:** DO-326A
+- Requirements-based testing, MC/DC & structural coverage
+- Hardware-in-the-loop testing (dSPACE)
+- Tool qualification and certification evidence
+
+</td>
+<td valign="top" width="50%">
+
+### 🛰️ Space
+
+- **Space standards:** ECSS
+- Ground segment **IV&V** for MetOp-SG / EPS-SG
+- **Verification Control Document (VCD)** ownership and close-out
+- Requirement-to-test **traceability** across levels
+- Product **timeliness & completeness** monitoring
+- Log analysis and anomaly investigation automation
+
+</td>
+</tr>
+</table>
+
+### 📜 Standards
+
+![DO-178C](https://img.shields.io/badge/DO--178C-Software-1D4ED8?style=for-the-badge)
+![ARP4754A](https://img.shields.io/badge/ARP4754A-Systems-2563EB?style=for-the-badge)
+![DO-254](https://img.shields.io/badge/DO--254-Hardware-3B82F6?style=for-the-badge)
+![DO-160G](https://img.shields.io/badge/DO--160G-Environmental-0EA5E9?style=for-the-badge)
+![DO-326A](https://img.shields.io/badge/DO--326A-Security-0891B2?style=for-the-badge)
+![ECSS](https://img.shields.io/badge/ECSS-Space_Standards-7C3AED?style=for-the-badge)
+
+### 🧪 Verification & requirements tools
+
+![IBM DOORS](https://img.shields.io/badge/IBM_DOORS-DXL_scripting-F97316?style=for-the-badge)
+![VectorCAST](https://img.shields.io/badge/VectorCAST-Unit_%26_coverage-EA580C?style=for-the-badge)
+![LDRA](https://img.shields.io/badge/LDRA_Testbed-Coverage-DC2626?style=for-the-badge)
+![dSPACE](https://img.shields.io/badge/dSPACE-HIL-E11D48?style=for-the-badge)
+
+### ⚙️ Automation & AI
+
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AI for V&V](https://img.shields.io/badge/AI-for_V%26V-DB2777?style=for-the-badge)
+
+### 🏅 Certifications
+
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester-16A34A?style=for-the-badge)
+![SAFe](https://img.shields.io/badge/SAFe-Scrum_Master-059669?style=for-the-badge)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-65A30D?style=for-the-badge)
 
 ---
 
-*Building reusable tools and sharing knowledge from two decades of safety-critical systems verification.*
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| 🧰 [**arun_labs**](https://github.com/jarunprasath/arun_labs) | My toolkit of Python scripts and AI-assisted helpers for aerospace V&V: requirement trace database, DO-178C / ARP4754A / DO-254 / DO-160G / DO-326A reference skills, and engineering productivity utilities |
+| 🔬 [**ReverseLab**](https://github.com/jarunprasath/ReverseLab) | My customised edition of [REA](https://github.com/morluto/rea) by morluto (MIT): an MCP server and CLI for reverse engineering binaries, apps and runtime behaviour |
+
+---
+
+## 🔭 Currently exploring
+
+- 🤖 **AI-assisted verification** — LLM support for requirement analysis, test review and traceability
+- 🛰️ **Ground segment innovation** — tooling for satellite data processing, monitoring and operations
+- 📚 Sharing practical V&V knowledge from two decades of safety-critical work
+
+---
+
+<p align="center">
+  <i>Building reusable tools and sharing knowledge from safety-critical systems verification.</i><br/>
+  <sub>✈️ Avionics → 🚁 eVTOL → 🛰️ Space</sub>
+</p>
