@@ -98,6 +98,8 @@ My work covers the full V&V lifecycle: requirements analysis and traceability, t
 
 | Project | What it is |
 |---|---|
+| 🛰️ [**SatRadar**](https://github.com/jarunprasath/sat-radar) · [▶ live](https://jarunprasath.github.io/sat-radar/) | A "Flightradar for satellites": a mobile-friendly map of every active satellite right now, propagated in the browser with SGP4 from CelesTrak data — plus closest pairs, slowest movers, oldest/newest launches and what's above you. Python tool for data build and terminal analysis |
+| ✈️ [**IXM Pulse — Madurai Airport Tracker**](https://github.com/jarunprasath/madurai-airport-tracker) · [▶ live](https://jarunprasath.github.io/madurai-airport-tracker/) | Live flights, daily/monthly traffic, airline-wise data, cargo and a 12-month passenger forecast for Madurai International Airport (IXM), with auto-generated weekly/monthly PowerPoint and Excel reports — built to give citizens and authorities sourced evidence for better connectivity from Madurai |
 | 🧰 [**arun_labs**](https://github.com/jarunprasath/arun_labs) | My toolkit of Python scripts and AI-assisted helpers for aerospace V&V: requirement trace database, DO-178C / ARP4754A / DO-254 / DO-160G / DO-326A reference skills, and engineering productivity utilities |
 | 🔬 [**ReverseLab**](https://github.com/jarunprasath/ReverseLab) | My customised edition of [REA](https://github.com/morluto/rea) by morluto (MIT): an MCP server and CLI for reverse engineering binaries, apps and runtime behaviour |
 
